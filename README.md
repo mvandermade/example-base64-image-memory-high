@@ -1,6 +1,10 @@
 # example-base64-image-memory-high
 To demonstrate that the Firefox browser (130.0.x) keeps increasing its tab memory usage when swapping out data:base64 data of an image's src.
 
+# Running the project
+Install node first: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+Run `npm dev` and go the the address printed into the console
+
 # Observations
 Below are memory measurements (in MB assuming 1000K = 1MB) used by each tab taken with the task manager of browsers on two different platforms.
 ## 15okt2024 - MacOS 14.7
