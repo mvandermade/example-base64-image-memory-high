@@ -34,3 +34,5 @@ Edge (latest)
 01.20h 43 MB
 01.50h 45 MB
 ```
+
+https://support.mozilla.org/en-US/questions/1469637
